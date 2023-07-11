@@ -1,0 +1,92 @@
+
+.bg{
+    background-color: aquamarine;
+    height: 100vh;
+    text-align: center;
+    font-size: larger;
+    color: rgb(163, 163, 89);
+    font-weight: bold;
+    font-family: 'Trebuchet MS';
+}
+
+.name{
+    width: 100px;
+    height: 90px;
+    background:rgb(202, 130, 78);
+    transition: width 2s;
+    text-align: center;
+    color: gold;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.name:hover {
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    height: 80px;
+    border-radius: 6px;
+  }
+
+.ig1{
+    width: 35px;
+    height: 35px;
+    display: flex;
+}
+
+#a1{
+    font-family: Arial;
+    background-color: gainsboro;
+    color: crimson;
+}
+
+.test {
+    width: 30em; 
+    border: 1px solid #888c55;
+    word-wrap: break-word;
+    align-items: flex-end;
+  }
+
+.p1{
+    font-size: small;
+    align-items: flex-end;
+}
+
+.img1{
+    height: 34vh;
+    width: 26vh;
+    border-radius: 8px;
+    border: 3px dashed;
+    border-color: yellowgreen;
+    display: flex;
+}
+
+#c1{
+    font-family: Arial;
+    background-size: 70vh;
+    background-color: blanchedalmond;
+}
+
+.img2{
+    display: flex;
+    height: 18vh;
+}
+
+#c2{
+    font-family: Arial;
+    background-color: lime;
+    height: 70vh;
+}
+
+h2{
+    font-family: Verdana;
+    text-decoration: wavy;
+}
+
+.ul1{
+    color: rgb(103, 67, 42);
+}
+
+.ul2{
+    color: maroon;
+}
